@@ -26,5 +26,6 @@
     "@lerna2/cli": "^0.0.1",
     "@lerna2/create": "^0.0.1",
     "@lerna2/init": "^0.0.1"
-  }
+  },
+  "gitHead": "ab4226edb35a19863ccd72ba3ee6afcfadaccb9a"
 }
