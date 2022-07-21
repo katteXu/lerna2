@@ -1,6 +1,6 @@
 {
   "name": "lerna2",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "> TODO: description",
   "author": "katte <417560450@qq.com>",
   "homepage": "",
@@ -23,9 +23,9 @@
     "lerna2": "cli.js"
   },
   "dependencies": {
-    "@lerna2/cli": "^0.0.6",
-    "@lerna2/create": "^0.0.6",
-    "@lerna2/init": "^0.0.6"
+    "@lerna2/cli": "^0.0.7",
+    "@lerna2/create": "^0.0.7",
+    "@lerna2/init": "^0.0.7"
   },
   "gitHead": "2c846cb70c292cb7efcd60998a39e5f296b8b0b9"
 }
