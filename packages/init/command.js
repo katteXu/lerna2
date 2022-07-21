@@ -5,6 +5,6 @@ exports.builder = (yargs) => {
 };
 // init命令真正的处理逻辑
 exports.handler = (argv) => {
-  console.log("执行init命令", argv);
+  console.log("执行init命令1", argv);
   return require(".")(argv);
 };
