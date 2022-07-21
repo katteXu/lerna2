@@ -13,7 +13,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org"
+    "registry": "http://localhost:4873"
   },
   "scripts": {
     "test": "jest"
@@ -24,5 +24,5 @@
     "init-package-json": "^3.0.2",
     "pify": "^5.0.0"
   },
-  "gitHead": "3265290b5d7d7c02360eec24a1a3f780179fc7af"
+  "gitHead": "2c846cb70c292cb7efcd60998a39e5f296b8b0b9"
 }
